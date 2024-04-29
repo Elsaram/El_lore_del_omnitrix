@@ -1,0 +1,32 @@
+p{
+	width:1000px;
+	height:50px;
+	text-align: left;
+	color: #024000;
+    font-family:verdana;
+    font-size: 3vw;
+    color:#86BD02;
+    text-shadow: 1px  0px 0px black,
+               0px  1px 0px black,
+              -1px  0px 0px black,
+               0px -1px 0px black;
+}
+
+img{
+	width:150px;
+	height:150px;
+	max-width: 100%;
+    height: auto;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a{
+	color: #71D460;
+}
+
+
+table{
+background-color: rgba(0, 0, 0, 0.5);
+}
